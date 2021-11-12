@@ -1,0 +1,4 @@
+pytesseract
+youtube-dl
+youtube-search-python
+pillow
