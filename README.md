@@ -11,3 +11,11 @@ Given screenshot, download songs
 
 ## Setup (after installing above):
 * `make pip`
+
+## Arch setup shorthand: `make bootstrap-arch`
+
+## Usage:
+`make run`
+or just `python3 ripper.py`
+
+Optional arg is a newline seperated list of songs. Ex: `python3 ripper.py test_data/country-1.txt`
